@@ -1,7 +1,7 @@
 <?php
 
 print "Hello World  ";
-print "version 5";
+print "version 6";
 
 phpinfo();
 
