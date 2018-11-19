@@ -3,7 +3,7 @@
 print "Hello World <br> ";
 print "version 9 <br>";
 
-for($i = 0; $i < 1000000; $i++) {
+for($i = 0; $i < 10000000; $i++) {
      $str = generateRandomString(30);
      base64_encode($str);
      $a += $i;
